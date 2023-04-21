@@ -8,7 +8,7 @@ Installation
 
 Pour installer le projet, suivez les étapes suivantes :
 
-Clonez le dépôt du projet à partir de GitHub : git clone https://github.com/votre_nom/projet-codage-huffman.git
+Clonez le dépôt du projet à partir de GitHub : git clone https://github.com/uvsq22103076/projet-codage-huffman.git
 Assurez-vous que les dépendances sont installées : pip install -r requirements.txt
 Lancez l'application : python main.py
 
